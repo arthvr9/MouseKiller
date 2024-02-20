@@ -4,6 +4,7 @@ Raspberry Pi Pico Project
 Requires: Raspberry Pi Pico / Raspberry Pi Pico W
 
 Need to download:
+
 https://github.com/adafruit/Adafruit_CircuitPython_HID
 
 https://thonny.org (Optional)
